@@ -4,8 +4,8 @@
 			"/Game/PrimalEarth/Items/Raft/Raft_BP.Raft_BP_C",
 			"/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
 			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP.ShoulderDragon_Character_BP_C",
-			"/Game/ASA/Dinos/Helicoprion/Helicoprion_Character_BP.Helicoprion_Character_BP_C"	
-			
+			"/Game/ASA/Dinos/Helicoprion/Helicoprion_Character_BP.Helicoprion_Character_BP_C",
+			"/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C"
 		],
 		"weeksarrays": [
 			{
@@ -171,7 +171,7 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP_C",
-						"chancetodrop": 0.7
+						"chancetodrop": 0.8
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Bigfoot/Bigfoot_Character_BP.Bigfoot_Character_BP_C",
@@ -180,10 +180,6 @@
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Purlovia/Purlovia_Character_BP.Purlovia_Character_BP_C",
 						"chancetodrop": 0.7
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Liopleurodon/Liopleurodon_Character_BP.Liopleurodon_Character_BP_C",
-						"chancetodrop": 0.5
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Bat/Bat_Character_BP.Bat_Character_BP_C",
